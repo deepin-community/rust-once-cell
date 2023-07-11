@@ -4,12 +4,18 @@ Upstream-Contact: Aleksey Kladov <aleksey.kladov@gmail.com>
 Source: https://github.com/matklad/once_cell
 
 Files: *
-Copyright: 2018-2023 Aleksey Kladov <aleksey.kladov@gmail.com>
+Copyright: FIXME (overlay) UNKNOWN-YEARS Aleksey Kladov <aleksey.kladov@gmail.com>
 License: MIT or Apache-2.0
+Comment:
+ FIXME (overlay): Since upstream copyright years are not available in
+ Cargo.toml, they were extracted from the upstream Git repository. This may not
+ be correct information so you should review and fix this before uploading to
+ the archive.
 
 Files: debian/*
 Copyright:
  2019-2023 Debian Rust Maintainers <pkg-rust-maintainers@alioth-lists.debian.net>
+ 2019-2023 Nikos Tsipinakis <nikos@tsipinakis.com>
 License: MIT or Apache-2.0
 
 License: Apache-2.0
